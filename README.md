@@ -68,7 +68,3 @@ curl -X POST http://localhost:8000/api/v1/query \
 - **DB**: Qdrant (Vectors), SQLite (Feedback)
 - **LLM**: OpenAI (configurable)
 - **Monitoring**: Structured JSON logs
-
-## License
-
-Proprietary & Confidential.
